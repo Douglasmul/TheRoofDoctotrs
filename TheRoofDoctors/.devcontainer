@@ -1,9 +1,0 @@
-{
-  "name": "Expo React Native",
-  "image": "mcr.microsoft.com/devcontainers/javascript-node:20-bookworm",
-  "features": {
-    "ghcr.io/devcontainers-contrib/features/node-extras:2": {
-      "pnpm": "true"
-    }
-  }
-}
